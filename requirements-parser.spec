@@ -4,7 +4,7 @@
 #
 Name     : requirements-parser
 Version  : 0.1.0
-Release  : 9
+Release  : 10
 URL      : https://pypi.python.org/packages/source/r/requirements-parser/requirements-parser-0.1.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/r/requirements-parser/requirements-parser-0.1.0.tar.gz
 Summary  : Parses Pip requirement files
